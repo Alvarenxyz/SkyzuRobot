@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/56811b69cbcece20bbebf.jpg">
+  <img src="https://telegra.ph/file/ff76d12f8973097ff2c74.jpg">
 </p>
 
 <h4><p align="center"> SKYZU ROBOT </p></h4>
